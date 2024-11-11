@@ -1,0 +1,236 @@
+[
+  {
+    "date": "2024-11-10",
+    "room": "D105a",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "number_of_students": 20,
+    "room_type": "Computer Room",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D105b",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "number_of_students": 20,
+    "room_type": "Computer Room",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D201",
+    "start_time": "13:00",
+    "end_time": "15:00",
+    "number_of_students": 20,
+    "room_type": "Computer Room",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D202",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "number_of_students": 20,
+    "room_type": "Computer Room",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D207",
+    "start_time": "08:00",
+    "end_time": "09:00",
+    "number_of_students": 20,
+    "room_type": "Computer Room",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D314",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "number_of_students": 20,
+    "room_type": "Computer Room",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D313",
+    "start_time": "08:00",
+    "end_time": "12:00",
+    "number_of_students": 20,
+    "room_type": "Computer Room",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D105a",
+    "start_time": "09:00",
+    "end_time": "10:00",
+    "number_of_students": 22,
+    "room_type": "Computer Room",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D105b",
+    "start_time": "09:00",
+    "end_time": "11:00",
+    "number_of_students": 22,
+    "room_type": "Computer Room",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D201",
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "number_of_students": 22,
+    "room_type": "Computer Room",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D202",
+    "start_time": "13:00",
+    "end_time": "15:00",
+    "number_of_students": 22,
+    "room_type": "Computer Room",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D207",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "number_of_students": 22,
+    "room_type": "Computer Room",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D314",
+    "start_time": "12:00",
+    "end_time": "13:00",
+    "number_of_students": 22,
+    "room_type": "Computer Room",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D313",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "number_of_students": 22,
+    "room_type": "Computer Room",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D208",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D208",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D208",
+    "start_time": "13:00",
+    "end_time": "15:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D208",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D315",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D315",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D315",
+    "start_time": "13:00",
+    "end_time": "15:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D315",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D317",
+    "start_time": "08:00",
+    "end_time": "10:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D317",
+    "start_time": "10:00",
+    "end_time": "12:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": false
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D317",
+    "start_time": "13:00",
+    "end_time": "15:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": true
+  },
+  {
+    "date": "2024-11-10",
+    "room": "D317",
+    "start_time": "15:00",
+    "end_time": "17:00",
+    "number_of_students": 20,
+    "room_type": "Classroom",
+    "available": false
+  }
+]

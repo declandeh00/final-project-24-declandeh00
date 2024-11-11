@@ -55,6 +55,10 @@ h1 {
   justify-self: center;
 }
 
+p {
+  justify-self: center;
+}
+
 /* This is css styling for the cards that displays the data with shadow */
 .rooms-container {
   display: grid;
